@@ -2,9 +2,6 @@
    Here's a complete and professional `README.md` file for your iRevolution project:
 
 
-
-# iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India
-
 ## Overview
 
 iRevolution is a full-stack data visualization project that explores the growth, penetration, and impact of Apple's iPhone in India using real-world datasets, interactive Tableau dashboards, and a clean HTML front-end. It provides valuable insights into sales trends, user demographics, and the cultural footprint of iPhones in the Indian market.
